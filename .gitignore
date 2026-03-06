@@ -1,0 +1,20 @@
+# R files to exclude
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Large data files
+*.rds
+ames_cleaned.rds
+
+# Generated reports
+*.html
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+.#*

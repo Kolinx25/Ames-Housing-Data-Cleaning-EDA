@@ -1,0 +1,8 @@
+"Metric","Original_Data","Cleaned_Data"
+"Total Rows","2930","2930"
+"Total Columns","82","90"
+"Missing Values","13997","0"
+"Duplicate Rows","0","0"
+"Numeric Columns","37","43"
+"Categorical Columns","0","47"
+"Memory Size (MB)","1.7 Mb","1.4 Mb"
